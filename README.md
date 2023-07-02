@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ignacio Di Pardo</h1>
-<h3 align="center">Sin miedo al exito ;)</h3>
+<h3 align="center">Vive como si fueses a morir mañana. Aprende como si fueses a vivir siempre</h3>
 
 <h3 align="left">Connect with me:</h3>
+<h2 align="left">Dev Full - Stack</h2>
 <p align="left">
 </p>
 
